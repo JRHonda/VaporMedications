@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "73e76346aae5f2506234ab55445ba25c9dc22213ae9d1042b488e0799becb0ca"
+build_start_time: [1652737102, 974545001]
+build_end_time: [1652737104, 83873033]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphiql-vapor/Sources/GraphiQLVapor/GraphiQLVapor.swift"
+  : [1652737005, 670005798]

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphiQLVapor.build/master.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphiql-vapor/Sources/GraphiQLVapor/GraphiQLVapor.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphiQLVapor.build/GraphiQLVapor.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphiQLVapor.build/GraphiQLVapor.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphiQLVapor.build/GraphiQLVapor~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphiQLVapor.build/GraphiQLVapor.swiftdeps"
+  }
+}

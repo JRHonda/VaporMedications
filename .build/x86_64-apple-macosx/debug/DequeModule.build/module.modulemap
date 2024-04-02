@@ -1,0 +1,4 @@
+module DequeModule {
+    header "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/DequeModule.build/DequeModule-Swift.h"
+    requires objc
+}

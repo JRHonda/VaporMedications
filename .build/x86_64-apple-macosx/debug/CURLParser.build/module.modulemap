@@ -1,0 +1,4 @@
+module CURLParser {
+    umbrella "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/vapor/Sources/CURLParser/include"
+    export *
+}

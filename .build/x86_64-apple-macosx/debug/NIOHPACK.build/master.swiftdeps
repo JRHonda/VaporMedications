@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "e2ab69f1adaff3579ba2b6a4878f7599552cbb0622cec7cdc2fca8cd7baaad78"
+build_start_time: [1652737066, 50915002]
+build_end_time: [1652737068, 487642049]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift"
+  : [1652737002, 949344158]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift"
+  : [1652737002, 966236591]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift"
+  : [1652737002, 966557025]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift"
+  : [1652737002, 966824531]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift"
+  : [1652737002, 967142105]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift"
+  : [1652737002, 967431068]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift"
+  : [1652737002, 967717409]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift"
+  : [1652737002, 968911647]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift"
+  : [1652737002, 969275712]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift"
+  : [1652737002, 969560623]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift"
+  : [1652737002, 969787359]

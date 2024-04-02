@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "3d6c571ee8c34ddc10027f9866749aadda89e34050e6736018132b99b9150ba9"
+build_start_time: [1652737088, 83286046]
+build_end_time: [1652737090, 619665145]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/Exports.swift"
+  : [1652737000, 82512855]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/FluentSQLiteConfiguration.swift"
+  : [1652737000, 82758188]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/FluentSQLiteDatabase.swift"
+  : [1652737000, 83038330]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/FluentSQLiteDriver.swift"
+  : [1652737000, 83295822]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/SQLiteConverterDelegate.swift"
+  : [1652737000, 83531379]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/SQLiteError+Database.swift"
+  : [1652737000, 83736419]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-sqlite-driver/Sources/FluentSQLiteDriver/SQLiteRow+Database.swift"
+  : [1652737000, 83948373]

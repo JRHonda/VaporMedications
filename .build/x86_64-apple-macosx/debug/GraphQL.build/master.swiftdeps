@@ -1,0 +1,94 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1652737061, 188500881]
+build_end_time: [1652737082, 518392086]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Error/GraphQLError.swift"
+  : [1652737006, 477067470]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Error/LocatedError.swift"
+  : [1652737006, 477360248]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Error/SyntaxError.swift": [1652737006, 477569580]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Execution/Execute.swift": [1652737006, 478479385]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Execution/Values.swift": [1652737006, 478778362]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Extensions/Codable+Extensions.swift"
+  : [1652737006, 479136228]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/GraphQL.swift": [1652737006, 479652166]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/GraphQLRequest.swift": [1652737006, 479860782]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Instrumentation/DispatchQueueInstrumentationWrapper.swift"
+  : [1652737006, 480194091]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Instrumentation/Instrumentation.swift"
+  : [1652737006, 480415821]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Language/AST.swift": [1652737006, 480880498]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Language/Kinds.swift": [1652737006, 481101989]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Language/Lexer.swift": [1652737006, 481421947]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Language/Location.swift": [1652737006, 481684684]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Language/Parser.swift": [1652737006, 481971263]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Language/Source.swift": [1652737006, 482278823]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Language/Visitor.swift": [1652737006, 482567310]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Map/AnyCoder.swift": [1652737006, 483480453]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Map/AnySerialization.swift"
+  : [1652737006, 483823776]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Map/GraphQLJSONEncoder.swift"
+  : [1652737006, 484272003]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Map/Map.swift": [1652737006, 484702587]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Map/MapCoder.swift": [1652737006, 485418796]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Map/MapSerialization.swift"
+  : [1652737006, 485677719]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Map/Number.swift": [1652737006, 485895633]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/PersistedQueries/PersistedQueries.swift"
+  : [1652737006, 486224889]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Subscription/EventStream.swift"
+  : [1652737006, 486692905]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Subscription/Subscribe.swift"
+  : [1652737006, 486979484]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/SwiftUtilities/Find.swift"
+  : [1652737006, 487401962]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/SwiftUtilities/IsNullish.swift"
+  : [1652737006, 487666606]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/SwiftUtilities/KeyMap.swift"
+  : [1652737006, 487935781]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/SwiftUtilities/Mirror.swift"
+  : [1652737006, 488130569]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/SwiftUtilities/QuotedOrList.swift"
+  : [1652737006, 488323688]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/SwiftUtilities/SuggestionList.swift"
+  : [1652737006, 488563060]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Type/Definition.swift": [1652737006, 489178180]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Type/Directives.swift": [1652737006, 489578247]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Type/Introspection.swift"
+  : [1652737006, 489811897]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Type/Scalars.swift": [1652737006, 490120410]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Type/Schema.swift": [1652737006, 490406274]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Utilities/ASTFromValue.swift"
+  : [1652737006, 490908145]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Utilities/AssertValidName.swift"
+  : [1652737006, 491267204]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Utilities/IsValidValue.swift"
+  : [1652737006, 491549491]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Utilities/Keyable.swift": [1652737006, 491793632]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Utilities/NIO+Extensions.swift"
+  : [1652737006, 492156267]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Utilities/TypeComparators.swift"
+  : [1652737006, 492415189]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Utilities/TypeFromAST.swift"
+  : [1652737006, 492660522]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Utilities/TypeInfo.swift"
+  : [1652737006, 492936134]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Utilities/ValueFromAST.swift"
+  : [1652737006, 493223190]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Validation/Rules/FieldsOnCorrectTypeRule.swift"
+  : [1652737006, 493884325]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Validation/Rules/KnownArgumentNamesRule.swift"
+  : [1652737006, 494190216]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Validation/Rules/NoUnusedVariablesRule.swift"
+  : [1652737006, 494479894]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Validation/Rules/PossibleFragmentSpreadsRule.swift"
+  : [1652737006, 494816303]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Validation/Rules/ProvidedNonNullArgumentsRule.swift"
+  : [1652737006, 495136499]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Validation/Rules/ScalarLeafsRule.swift"
+  : [1652737006, 495408535]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Validation/SpecifiedRules.swift"
+  : [1652737006, 495713949]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/GraphQL/Sources/GraphQL/Validation/Validate.swift"
+  : [1652737006, 496123313]

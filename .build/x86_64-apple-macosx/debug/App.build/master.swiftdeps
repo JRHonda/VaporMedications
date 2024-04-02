@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "b2b69d7735196444d89e42639aff52b4de788a290793a1388db7f97c382a8c0c"
+build_start_time: [1652737105, 875303983]
+build_end_time: [1652737112, 196818828]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/Controllers/MedicationsController.swift": [1652062839, 157664299]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/GraphQL/Resolver.swift": [1652737077, 673241138]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/GraphQL/Schema.swift": [1652736629, 233151197]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/Migrations/MigrateMedications.swift": [1652737061, 117595672]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/Models/Medication.swift": [1652737022, 141672849]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/Models/MedicationCustomerMedicationPivot.swift": [1652732886, 360592126]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/configure.swift": [1652736629, 219422340]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/routes.swift": [1652726182, 915488243]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "e60fee1320f1e7595217707ba5115ce0b685f90e9105032486b164c859d22708"
+build_start_time: [1652737112, 337778091]
+build_end_time: [1652737113, 283133029]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/Run/main.swift": [1652039112, 385706424]

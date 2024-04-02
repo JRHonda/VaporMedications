@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/Controllers/MedicationsController.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Controllers/MedicationsController.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Controllers/MedicationsController.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Controllers/MedicationsController~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Controllers/MedicationsController.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/GraphQL/Resolver.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/GraphQL/Resolver.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/GraphQL/Resolver.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/GraphQL/Resolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/GraphQL/Resolver.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/GraphQL/Schema.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/GraphQL/Schema.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/GraphQL/Schema.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/GraphQL/Schema~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/GraphQL/Schema.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/Migrations/MigrateMedications.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Migrations/MigrateMedications.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Migrations/MigrateMedications.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Migrations/MigrateMedications~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Migrations/MigrateMedications.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/Models/Medication.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Models/Medication.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Models/Medication.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Models/Medication~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Models/Medication.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/Models/MedicationCustomerMedicationPivot.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Models/MedicationCustomerMedicationPivot.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Models/MedicationCustomerMedicationPivot.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Models/MedicationCustomerMedicationPivot~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/Models/MedicationCustomerMedicationPivot.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/configure.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/Sources/App/routes.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/App.build/routes.swiftdeps"
+  }
+}

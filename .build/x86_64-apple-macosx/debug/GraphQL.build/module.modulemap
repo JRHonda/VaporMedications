@@ -1,0 +1,4 @@
+module GraphQL {
+    header "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQL.build/GraphQL-Swift.h"
+    requires objc
+}

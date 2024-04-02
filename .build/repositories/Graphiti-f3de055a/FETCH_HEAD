@@ -1,0 +1,81 @@
+7dfde3feede6b13bdec8e610ec99509cc32bd1f8		branch 'master' of https://github.com/GraphQLSwift/Graphiti
+50f4ae95b15d217454d4b8f1ef189be7ade129b3	not-for-merge	branch 'feature/async-await' of https://github.com/GraphQLSwift/Graphiti
+d7c0829d7d6592d1d255f9e72f6557d8e7698d24	not-for-merge	'refs/pull/10/head' of https://github.com/GraphQLSwift/Graphiti
+97c08f1a57c51176de5eb01187515012e2bafd9c	not-for-merge	'refs/pull/11/head' of https://github.com/GraphQLSwift/Graphiti
+2860336acf65c75a5ef9b3879e8826a605532606	not-for-merge	'refs/pull/13/head' of https://github.com/GraphQLSwift/Graphiti
+b42b3ac693bb44b827feac23840f84441a4ec489	not-for-merge	'refs/pull/15/head' of https://github.com/GraphQLSwift/Graphiti
+962cf8e0553b77e56f75472478d1affcc0b6b1c6	not-for-merge	'refs/pull/17/head' of https://github.com/GraphQLSwift/Graphiti
+d408ebff3b838c89ce7f4df8f695ab6821eb3170	not-for-merge	'refs/pull/18/head' of https://github.com/GraphQLSwift/Graphiti
+ee88ea9c4277bad6d7c8a883374f14b8c765601d	not-for-merge	'refs/pull/21/head' of https://github.com/GraphQLSwift/Graphiti
+04b5ffbe088e80c8c1975be15af954ed6eab5246	not-for-merge	'refs/pull/25/head' of https://github.com/GraphQLSwift/Graphiti
+8d9c16daed83c2938d4422ba5c9ef0a332f046df	not-for-merge	'refs/pull/26/head' of https://github.com/GraphQLSwift/Graphiti
+46295caf1e980ff38cab079767d31ae4919acdd0	not-for-merge	'refs/pull/27/head' of https://github.com/GraphQLSwift/Graphiti
+b09e7c22ed49695eb27eb1ee23a6630f9d206a17	not-for-merge	'refs/pull/28/head' of https://github.com/GraphQLSwift/Graphiti
+e7c1a422b47b6861e0c6bf5b638433d2200fc299	not-for-merge	'refs/pull/3/head' of https://github.com/GraphQLSwift/Graphiti
+0763dbf6dce2701dbf0d0d4d6a0cbd2212a4514a	not-for-merge	'refs/pull/34/head' of https://github.com/GraphQLSwift/Graphiti
+ea9ae32cd3603f373ae32cfbbc7be4e422ac1a00	not-for-merge	'refs/pull/35/head' of https://github.com/GraphQLSwift/Graphiti
+95b55230e2911bc016eed40a6a0501b58526d159	not-for-merge	'refs/pull/4/head' of https://github.com/GraphQLSwift/Graphiti
+7495500c779519832ca11968182ba4ba985cfddf	not-for-merge	'refs/pull/45/head' of https://github.com/GraphQLSwift/Graphiti
+fa9ce54a18a9d5b97aa4460b889d1d3da129548a	not-for-merge	'refs/pull/46/head' of https://github.com/GraphQLSwift/Graphiti
+f4d9281933287845bfd84c9b7ee6dbd720218294	not-for-merge	'refs/pull/49/head' of https://github.com/GraphQLSwift/Graphiti
+385c830fff50eb34e58473c04b1da15205f06fa1	not-for-merge	'refs/pull/5/head' of https://github.com/GraphQLSwift/Graphiti
+9813c7516dcad730a20ee8d36a96520fa01e8cbf	not-for-merge	'refs/pull/52/head' of https://github.com/GraphQLSwift/Graphiti
+1211fe635b0d7208373ac0d71b55cc77b846e94c	not-for-merge	'refs/pull/53/head' of https://github.com/GraphQLSwift/Graphiti
+3e5216302fe71b174253cccb6ee78b8a6e27daa3	not-for-merge	'refs/pull/56/head' of https://github.com/GraphQLSwift/Graphiti
+8579770d7dea54cc27611e330b5e23d7c2446aa6	not-for-merge	'refs/pull/58/head' of https://github.com/GraphQLSwift/Graphiti
+43034cacb5d7858d38213d63f6a1b42bc6874112	not-for-merge	'refs/pull/59/head' of https://github.com/GraphQLSwift/Graphiti
+feadb138eec33317342164d5ad35d72ccf678ad0	not-for-merge	'refs/pull/62/head' of https://github.com/GraphQLSwift/Graphiti
+212e7cd05769ec5b50f38235a6f31adeb487e18f	not-for-merge	'refs/pull/63/head' of https://github.com/GraphQLSwift/Graphiti
+91654c70cee136610d4bfed6db710f05e2797458	not-for-merge	'refs/pull/64/head' of https://github.com/GraphQLSwift/Graphiti
+a7f707d23563ace349003afd09629faaddf74ec0	not-for-merge	'refs/pull/69/head' of https://github.com/GraphQLSwift/Graphiti
+57fe9f79545460db00803485b3013a0b38fa5e3a	not-for-merge	'refs/pull/7/head' of https://github.com/GraphQLSwift/Graphiti
+50f4ae95b15d217454d4b8f1ef189be7ade129b3	not-for-merge	'refs/pull/71/head' of https://github.com/GraphQLSwift/Graphiti
+68466b6c23c982cf0eaf61b437febc724fc0a36a	not-for-merge	'refs/pull/71/merge' of https://github.com/GraphQLSwift/Graphiti
+fd4fde1629b454e58691fefca7d0b90e0eb6dd08	not-for-merge	'refs/pull/74/head' of https://github.com/GraphQLSwift/Graphiti
+60867c3fee8eacb643d6c16f88e974f7fe086edd	not-for-merge	'refs/pull/76/head' of https://github.com/GraphQLSwift/Graphiti
+9f47f4a6c5f10c7bd52694086d307b4807a143a4	not-for-merge	tag '0.1.0' of https://github.com/GraphQLSwift/Graphiti
+cc4c6e99a18c3e194721fd4a2bae6a52827edafb	not-for-merge	tag '0.1.1' of https://github.com/GraphQLSwift/Graphiti
+86852d0aecaf946e45e989e8c79994b404da1862	not-for-merge	tag '0.1.2' of https://github.com/GraphQLSwift/Graphiti
+050842057b769534017452dfd5e73b86d5ea6872	not-for-merge	tag '0.10.0' of https://github.com/GraphQLSwift/Graphiti
+1fbebadba9961f16dec54156a7bc6ce9297a08a0	not-for-merge	tag '0.11.0' of https://github.com/GraphQLSwift/Graphiti
+bce0c3c026615f82db594c48c380ab9f664251a4	not-for-merge	tag '0.12.0' of https://github.com/GraphQLSwift/Graphiti
+df6f1e93ca2dd11b9df3cd067915af4f3bf04393	not-for-merge	tag '0.13.0' of https://github.com/GraphQLSwift/Graphiti
+e81d5dff43ae524da3bf2e38b57806149f6162d9	not-for-merge	tag '0.13.1' of https://github.com/GraphQLSwift/Graphiti
+89ceceaf340ed8c5925595ca3949a077f06d0cf9	not-for-merge	tag '0.13.2' of https://github.com/GraphQLSwift/Graphiti
+7d4714b93b935fe25539c4017f1a0018f424772b	not-for-merge	tag '0.13.3' of https://github.com/GraphQLSwift/Graphiti
+2c1c8bfb17128c6fa0e6ed27aaa5b0614f9aa85c	not-for-merge	tag '0.13.4' of https://github.com/GraphQLSwift/Graphiti
+adfb2dbfc9635b9d7803b490ef2c8734b4226b9b	not-for-merge	tag '0.14.0' of https://github.com/GraphQLSwift/Graphiti
+119ce198ae8649a801f0a89852f3ecd3013e6001	not-for-merge	tag '0.14.1' of https://github.com/GraphQLSwift/Graphiti
+78878bd49a36500c5d0f2e1d5a1653d294ec95fd	not-for-merge	tag '0.15.0' of https://github.com/GraphQLSwift/Graphiti
+6a957684bd812bdbcc1ebae0db9a3b6dc2055464	not-for-merge	tag '0.16.0' of https://github.com/GraphQLSwift/Graphiti
+b3b155af50cc8310d0cdd9aad33a649d8b5343d8	not-for-merge	tag '0.17.0' of https://github.com/GraphQLSwift/Graphiti
+d7c943c2d6de42c36452d9b6f1514d6565d3f76c	not-for-merge	tag '0.17.1' of https://github.com/GraphQLSwift/Graphiti
+26221959ca62e299bc4257e277d3ac517b159042	not-for-merge	tag '0.17.2' of https://github.com/GraphQLSwift/Graphiti
+eeee7d318c8f2d06289aa9df56027b3d0a9bf7b8	not-for-merge	tag '0.18.0' of https://github.com/GraphQLSwift/Graphiti
+87a1032480aba6715b298e37d62861cf3173fb13	not-for-merge	tag '0.18.1' of https://github.com/GraphQLSwift/Graphiti
+c36f9f693fbe97f52eb1cd9f2855b00545e913e9	not-for-merge	tag '0.19.0' of https://github.com/GraphQLSwift/Graphiti
+7557745a8b71f9ef3bce72a3ec02ca9eb3cfd9d8	not-for-merge	tag '0.19.1' of https://github.com/GraphQLSwift/Graphiti
+1d91127dd7455bb0e1147403c3e8b23a5588bde4	not-for-merge	tag '0.19.2' of https://github.com/GraphQLSwift/Graphiti
+9cb8f9c762d254b47de5a125259a9f377e6aa4a6	not-for-merge	tag '0.2.0' of https://github.com/GraphQLSwift/Graphiti
+aa9d90922adfe398131e3f29223943e25531dbed	not-for-merge	tag '0.2.1' of https://github.com/GraphQLSwift/Graphiti
+d01808787e5178ad71a4a8cb73b40665fe66cb93	not-for-merge	tag '0.20.0' of https://github.com/GraphQLSwift/Graphiti
+2a764d0f75f304376131eef643b72cec639ae732	not-for-merge	tag '0.20.1' of https://github.com/GraphQLSwift/Graphiti
+07f40448d6d22045a897ccd36f2293bece2d731f	not-for-merge	tag '0.21.0' of https://github.com/GraphQLSwift/Graphiti
+076140e3ab0ceddfc9ffaab74b68ccdfac84821c	not-for-merge	tag '0.22.0' of https://github.com/GraphQLSwift/Graphiti
+35cf75fd6506042e1132f308b0c446858dba85f0	not-for-merge	tag '0.22.1' of https://github.com/GraphQLSwift/Graphiti
+93fcea39651dbca2f5d3a21e7136f1c23e2d005e	not-for-merge	tag '0.23.0' of https://github.com/GraphQLSwift/Graphiti
+9e504c9b41f0a880c80e53148b151b92795af8b6	not-for-merge	tag '0.24.0' of https://github.com/GraphQLSwift/Graphiti
+dbed58c7c6254b1031d74b4efccbab157329d3d1	not-for-merge	tag '0.25.0' of https://github.com/GraphQLSwift/Graphiti
+af903a243862c6427935677b91f67df0c21f2a71	not-for-merge	tag '0.26.0' of https://github.com/GraphQLSwift/Graphiti
+4b50a6d6b61b463debbce9611fd409f1879908f5	not-for-merge	tag '0.3.0' of https://github.com/GraphQLSwift/Graphiti
+5db60d708ff427def52313c6568d6322686abcc6	not-for-merge	tag '0.3.1' of https://github.com/GraphQLSwift/Graphiti
+5ddeef6ef2df92484a53ef48a7aa29bf7e3c3319	not-for-merge	tag '0.3.2' of https://github.com/GraphQLSwift/Graphiti
+bcf1e5983f5b488decb9e01ab332d98bd6868dd4	not-for-merge	tag '0.4.0' of https://github.com/GraphQLSwift/Graphiti
+85d7117d10dcf4dddb3bc894cee0c91a8e3ddf1a	not-for-merge	tag '0.5.0' of https://github.com/GraphQLSwift/Graphiti
+77cbd9fbe30f117261ab1709ad8eb4dc08a3db0b	not-for-merge	tag '0.6.0' of https://github.com/GraphQLSwift/Graphiti
+e6c820566251bc61bfea01303664c8e0ec08ad0e	not-for-merge	tag '0.6.1' of https://github.com/GraphQLSwift/Graphiti
+dbaff27e72e96d21b87aadcc79ca03f20dab6629	not-for-merge	tag '0.7.0' of https://github.com/GraphQLSwift/Graphiti
+66dcea8ed8748b983e490f296a71c9846d889c15	not-for-merge	tag '0.8.0' of https://github.com/GraphQLSwift/Graphiti
+bfd6be45978091289714fb75999f706de082ec4f	not-for-merge	tag '0.9.0' of https://github.com/GraphQLSwift/Graphiti
+c9bc9d1cc9e62e71a824dc178630bfa8b8a6e2a4	not-for-merge	tag '1.0.0' of https://github.com/GraphQLSwift/Graphiti
+7dfde3feede6b13bdec8e610ec99509cc32bd1f8	not-for-merge	tag '1.0.1' of https://github.com/GraphQLSwift/Graphiti

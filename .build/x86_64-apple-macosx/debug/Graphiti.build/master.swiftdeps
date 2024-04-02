@@ -1,0 +1,88 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1652737082, 847093105]
+build_end_time: [1652737086, 29036998]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/API/API.swift": [1652736997, 916205167]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Argument/Argument.swift"
+  : [1652736997, 916668891]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Argument/ArgumentComponent.swift"
+  : [1652736997, 916976690]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Argument/ArgumentComponentBuilder.swift"
+  : [1652736997, 917213916]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Argument/NoArguments.swift"
+  : [1652736997, 917414188]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Component/Component.swift"
+  : [1652736997, 917842149]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Component/ComponentBuilder.swift"
+  : [1652736997, 918044090]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Connection/Connection.swift"
+  : [1652736997, 918538570]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Connection/ConnectionType.swift"
+  : [1652736997, 918821096]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Connection/Edge.swift": [1652736997, 919032812]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Connection/PageInfo.swift"
+  : [1652736997, 919227361]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Connection/PagniationArguments/BackwardPaginationArguments.swift"
+  : [1652736997, 919680595]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Connection/PagniationArguments/ForwardPaginationArguments.swift"
+  : [1652736997, 919904708]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Connection/PagniationArguments/PaginationArguments.swift"
+  : [1652736997, 920124292]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Context/NoContext.swift"
+  : [1652736997, 920509099]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Definition/AnyType.swift"
+  : [1652736997, 920872211]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Definition/Reflection.swift"
+  : [1652736997, 921094894]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Definition/TypeProvider.swift"
+  : [1652736997, 921366691]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Definition/TypeReference.swift"
+  : [1652736997, 921580076]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Definition/Wrappers.swift"
+  : [1652736997, 921804428]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Enum/Enum.swift": [1652736997, 922202110]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Field/Field/Field.swift"
+  : [1652736997, 922773599]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Field/Field/FieldComponent.swift"
+  : [1652736997, 923007965]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Field/Field/FieldComponentBuilder.swift"
+  : [1652736997, 923259735]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Field/Resolve/AsyncResolve.swift"
+  : [1652736997, 923631191]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Field/Resolve/SimpleAsyncResolve.swift"
+  : [1652736997, 923879146]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Field/Resolve/SyncResolve.swift"
+  : [1652736997, 924060821]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Input/Input.swift": [1652736997, 924459695]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/InputField/InputField.swift"
+  : [1652736997, 924863338]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/InputField/InputFieldComponent.swift"
+  : [1652736997, 925071239]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/InputField/InputFieldComponentBuilder.swift"
+  : [1652736997, 925261974]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Interface/Interface.swift"
+  : [1652736997, 925613403]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Mutation/Mutation.swift"
+  : [1652736997, 925981521]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Query/Query.swift": [1652736997, 926392555]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Scalar/DateFormatter.swift"
+  : [1652736997, 926759481]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Scalar/DateScalar.swift"
+  : [1652736997, 926977634]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Scalar/Scalar.swift": [1652736997, 927195072]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Schema/Schema.swift": [1652736997, 927543163]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Schema/SchemaTypeProvider.swift"
+  : [1652736997, 927757501]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Subscription/SubscribeField.swift"
+  : [1652736997, 928143262]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Subscription/SubscribeResolve.swift"
+  : [1652736997, 928387165]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Subscription/Subscription.swift"
+  : [1652736997, 928611755]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Type/Type.swift": [1652736997, 929011821]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Types/Types.swift": [1652736997, 929445266]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Union/Union.swift": [1652736997, 929904937]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Value/Value.swift": [1652736997, 930304527]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/Graphiti/Sources/Graphiti/Value/ValueBuilder.swift"
+  : [1652736997, 930508613]

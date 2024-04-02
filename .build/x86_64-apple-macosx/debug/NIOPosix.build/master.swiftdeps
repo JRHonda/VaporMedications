@@ -1,0 +1,66 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1652737058, 379740953]
+build_end_time: [1652737060, 599640846]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/BSDSocketAPICommon.swift"
+  : [1652737004, 923711061]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/BSDSocketAPIPosix.swift"
+  : [1652737004, 924336194]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/BSDSocketAPIWindows.swift"
+  : [1652737004, 924667835]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/BaseSocket.swift": [1652737004, 925248622]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/BaseSocketChannel+SocketOptionProvider.swift"
+  : [1652737004, 925803422]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/BaseSocketChannel.swift"
+  : [1652737004, 926192283]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/BaseStreamSocketChannel.swift"
+  : [1652737004, 926540851]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/Bootstrap.swift": [1652737004, 926908731]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/ControlMessage.swift": [1652737004, 927178144]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/DatagramVectorReadManager.swift"
+  : [1652737004, 927466869]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/FileDescriptor.swift": [1652737004, 927682399]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/GetaddrinfoResolver.swift"
+  : [1652737004, 927933692]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/HappyEyeballs.swift": [1652737004, 928243160]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/IO.swift": [1652737004, 928462505]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/IntegerBitPacking.swift"
+  : [1652737004, 928647518]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/IntegerTypes.swift": [1652737004, 928883075]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/Linux.swift": [1652737004, 929090738]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/LinuxCPUSet.swift": [1652737004, 929298877]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/LinuxUring.swift": [1652737004, 929628849]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/MultiThreadedEventLoopGroup.swift"
+  : [1652737004, 929932832]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/NIOThreadPool.swift": [1652737004, 930461406]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/NonBlockingFileIO.swift"
+  : [1652737004, 930728435]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/PendingDatagramWritesManager.swift"
+  : [1652737004, 931111335]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/PendingWritesManager.swift"
+  : [1652737004, 931461095]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/PipeChannel.swift": [1652737004, 931722640]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/PipePair.swift": [1652737004, 932049989]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/PointerHelpers.swift": [1652737004, 932595729]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/Resolver.swift": [1652737004, 932804822]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/Selectable.swift": [1652737004, 933116436]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/SelectableChannel.swift"
+  : [1652737004, 933371305]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/SelectableEventLoop.swift"
+  : [1652737004, 933661937]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/SelectorEpoll.swift": [1652737004, 934312343]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/SelectorGeneric.swift"
+  : [1652737004, 934602022]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/SelectorKqueue.swift": [1652737004, 934928417]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/SelectorUring.swift": [1652737004, 935282230]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/ServerSocket.swift": [1652737004, 935558795]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/Socket.swift": [1652737004, 935829401]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/SocketChannel.swift": [1652737004, 936096906]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/SocketProtocols.swift"
+  : [1652737004, 936341524]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/System.swift": [1652737004, 936640501]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/Thread.swift": [1652737004, 937002182]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/ThreadPosix.swift": [1652737004, 937341690]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/ThreadWindows.swift": [1652737004, 937596797]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOPosix/Utilities.swift": [1652737004, 937799453]

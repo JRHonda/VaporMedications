@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1652737023, 78573942]
+build_end_time: [1652737048, 548427104]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/routing-kit/Sources/RoutingKit/AnyRouter.swift": [1652737002, 541688919]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift": [1652737002, 541941881]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift"
+  : [1652737002, 542203903]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift": [1652737002, 542467355]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift": [1652737002, 543124198]

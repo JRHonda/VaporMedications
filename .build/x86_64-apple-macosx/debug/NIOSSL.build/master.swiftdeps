@@ -1,0 +1,45 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "6692dcf3416080f21d5381df9cf8908e2abf783d8cbe87e9161e04f46f3a3623"
+build_start_time: [1652737064, 84225177]
+build_end_time: [1652737076, 19052028]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ByteBufferBIO.swift"
+  : [1652736994, 596723079]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/CustomPrivateKey.swift"
+  : [1652736994, 597046852]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/IdentityVerification.swift"
+  : [1652736994, 597331047]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/LinuxCABundle.swift"
+  : [1652736994, 597674846]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLClientHandler.swift"
+  : [1652736994, 598017215]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLHandler.swift"
+  : [1652736994, 598415374]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLServerHandler.swift"
+  : [1652736994, 598628759]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ObjectIdentifier.swift"
+  : [1652736994, 598871707]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/PosixPort.swift": [1652736994, 599107742]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCallbacks.swift": [1652736994, 615938663]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCertificate.swift"
+  : [1652736994, 616747617]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLConnection.swift"
+  : [1652736994, 617143869]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLContext.swift": [1652736994, 617780923]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLErrors.swift": [1652736994, 618083953]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLInit.swift": [1652736994, 618819952]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPKCS12Bundle.swift"
+  : [1652736994, 619075775]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPrivateKey.swift"
+  : [1652736994, 619406223]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPublicKey.swift": [1652736994, 619778633]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SecurityFrameworkCertificateVerification.swift"
+  : [1652736994, 620032310]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/String+unsafeUninitializedCapacity.swift"
+  : [1652736994, 620281934]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SubjectAlternativeName.swift"
+  : [1652736994, 620554924]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/TLSConfiguration.swift"
+  : [1652736994, 621034860]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/UniversalBootstrapSupport.swift"
+  : [1652736994, 621276855]

@@ -1,0 +1,26 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "73e76346aae5f2506234ab55445ba25c9dc22213ae9d1042b488e0799becb0ca"
+build_start_time: [1652737102, 976479053]
+build_end_time: [1652737104, 493039131]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/Concurrency/FluentProvider+Concurrency.swift"
+  : [1652736999, 197089433]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/Concurrency/Pagination+Concurrency.swift"
+  : [1652736999, 197356700]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/Concurrency/Sessions+Concurrency.swift"
+  : [1652736999, 197605133]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/Exports.swift": [1652736999, 197830200]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/Fluent+Cache.swift": [1652736999, 198066711]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/Fluent+History.swift": [1652736999, 198340892]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/Fluent+Paginate.swift": [1652736999, 198586940]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/Fluent+Pagination.swift": [1652736999, 198823928]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/Fluent+Sessions.swift": [1652736999, 199077367]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/FluentProvider.swift": [1652736999, 199308872]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/MigrateCommand.swift": [1652736999, 216109752]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/ModelAuthenticatable.swift"
+  : [1652736999, 216489315]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/ModelCredentialsAuthenticatable.swift"
+  : [1652736999, 216758728]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/ModelTokenAuthenticatable.swift"
+  : [1652736999, 217039585]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent/Sources/Fluent/PageLimit.swift": [1652736999, 217264175]

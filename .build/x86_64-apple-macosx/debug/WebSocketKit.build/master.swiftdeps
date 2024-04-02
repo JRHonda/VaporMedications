@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "b621fd5633046df513e0dd2e79a03211bf5b1c49c470eee462c55a90a663a78e"
+build_start_time: [1652737076, 170114994]
+build_end_time: [1652737078, 272273063]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/websocket-kit/Sources/WebSocketKit/Concurrency/WebSocket+Concurrency.swift"
+  : [1652737006, 932638168]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift"
+  : [1652737006, 932902812]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPInitialRequestHandler.swift"
+  : [1652737006, 933114051]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift"
+  : [1652737006, 933320999]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift"
+  : [1652737006, 933576107]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift"
+  : [1652737006, 934129238]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift"
+  : [1652737006, 934699058]

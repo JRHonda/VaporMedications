@@ -1,0 +1,4 @@
+module GraphQLKit {
+    header "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphQLKit-Swift.h"
+    requires objc
+}

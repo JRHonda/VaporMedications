@@ -1,0 +1,76 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "16d7dad600fcb7ff2320606f53265fe3d595aa2a55b147bfb23cc3bb0113d567"
+build_start_time: [1652737050, 924254894]
+build_end_time: [1652737058, 233789920]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/AddressedEnvelope.swift"
+  : [1652737004, 871251583]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/AsyncAwaitSupport+OldXcodes.swift"
+  : [1652737004, 871504783]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/AsyncAwaitSupport.swift"
+  : [1652737004, 872161388]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/BSDSocketAPI.swift": [1652737004, 872483015]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-aux.swift": [1652737004, 872863054]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-conversions.swift"
+  : [1652737004, 873151302]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-core.swift": [1652737004, 873617649]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-int.swift": [1652737004, 874253273]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-lengthPrefix.swift"
+  : [1652737004, 874505043]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-multi-int.swift"
+  : [1652737004, 874900579]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-views.swift"
+  : [1652737004, 875536441]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/Channel.swift": [1652737004, 876184940]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ChannelHandler.swift": [1652737004, 876907825]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ChannelHandlers.swift": [1652737004, 877198696]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ChannelInvoker.swift": [1652737004, 877473831]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ChannelOption.swift": [1652737004, 877761363]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ChannelPipeline.swift": [1652737004, 878594875]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/CircularBuffer.swift": [1652737004, 879000186]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/Codec.swift": [1652737004, 879440784]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/ConvenienceOptionSupport.swift"
+  : [1652737004, 880041122]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/DeadChannel.swift": [1652737004, 880818843]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/DispatchQueue+WithFuture.swift"
+  : [1652737004, 881038665]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/EventLoop+Deprecated.swift"
+  : [1652737004, 881796360]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/EventLoop.swift": [1652737004, 882223606]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/EventLoopFuture+Deprecated.swift"
+  : [1652737004, 882441997]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/EventLoopFuture+WithEventLoop.swift"
+  : [1652737004, 882658958]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/EventLoopFuture.swift": [1652737004, 883072614]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/FileDescriptor.swift": [1652737004, 883316993]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/FileHandle.swift": [1652737004, 883917808]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/FileRegion.swift": [1652737004, 884167194]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/IO.swift": [1652737004, 884441614]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/IOData.swift": [1652737004, 885046720]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/IntegerBitPacking.swift"
+  : [1652737004, 885274648]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/IntegerTypes.swift": [1652737004, 885550498]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/Interfaces.swift": [1652737004, 885882377]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/Linux.swift": [1652737004, 886163234]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/MarkedCircularBuffer.swift"
+  : [1652737004, 886385917]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/MulticastChannel.swift"
+  : [1652737004, 886936426]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/NIOAny.swift": [1652737004, 887203931]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/NIOCloseOnErrorHandler.swift"
+  : [1652737004, 887473106]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/PointerHelpers.swift": [1652737004, 887684345]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/RecvByteBufferAllocator.swift"
+  : [1652737004, 887926578]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/SingleStepByteToMessageDecoder.swift"
+  : [1652737004, 888182878]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/SocketAddresses.swift": [1652737004, 888811588]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/SocketOptionProvider.swift"
+  : [1652737004, 889093399]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/SystemCallHelpers.swift"
+  : [1652737004, 889324188]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/TypeAssistedChannelHandler.swift"
+  : [1652737004, 889551162]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/UniversalBootstrapSupport.swift"
+  : [1652737004, 889811515]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOCore/Utilities.swift": [1652737004, 890130758]

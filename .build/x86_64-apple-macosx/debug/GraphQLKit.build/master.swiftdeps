@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "73e76346aae5f2506234ab55445ba25c9dc22213ae9d1042b488e0799becb0ca"
+build_start_time: [1652737104, 625494003]
+build_end_time: [1652737105, 769407987]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/GraphQLError+Debuggabe.swift"
+  : [1652737003, 993472576]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/GraphQLRequest.swift"
+  : [1652737003, 993690013]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/Graphiti+Enum.swift"
+  : [1652737003, 993906974]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/Graphiti+Fluent.swift"
+  : [1652737003, 994149208]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/Graphiti+Request.swift"
+  : [1652737003, 994383811]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/Graphiti+Router.swift"
+  : [1652737003, 994627237]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/GraphitiExport.swift"
+  : [1652737003, 994868755]

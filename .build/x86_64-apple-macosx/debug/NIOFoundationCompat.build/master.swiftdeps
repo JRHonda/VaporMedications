@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1652737061, 177265167]
+build_end_time: [1652737075, 40995121]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift"
+  : [1652737004, 895050525]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/Codable+ByteBuffer.swift"
+  : [1652737004, 895408153]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/JSONSerialization+ByteBuffer.swift"
+  : [1652737004, 895865917]

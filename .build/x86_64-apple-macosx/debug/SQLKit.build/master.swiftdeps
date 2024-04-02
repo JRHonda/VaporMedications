@@ -1,0 +1,152 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1652737061, 195224046]
+build_end_time: [1652737067, 425223827]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLAlterEnumBuilder.swift"
+  : [1652736999, 624213218]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLAlterTableBuilder.swift"
+  : [1652736999, 624542236]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLColumnUpdateBuilder.swift"
+  : [1652736999, 624968051]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLConflictUpdateBuilder.swift"
+  : [1652736999, 625183105]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateEnumBuilder.swift"
+  : [1652736999, 625434398]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateIndexBuilder.swift"
+  : [1652736999, 625681877]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateTableAsSubqueryBuilder.swift"
+  : [1652736999, 625883579]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateTableBuilder.swift"
+  : [1652736999, 626105308]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLCreateTriggerBuilder.swift"
+  : [1652736999, 626368522]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDeleteBuilder.swift"
+  : [1652736999, 626955032]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropEnumBuilder.swift"
+  : [1652736999, 627171039]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropIndexBuilder.swift"
+  : [1652736999, 627794265]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropTableBuilder.swift"
+  : [1652736999, 628018856]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLDropTriggerBuilder.swift"
+  : [1652736999, 628269433]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLInsertBuilder.swift"
+  : [1652736999, 628494262]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLJoinBuilder.swift"
+  : [1652736999, 628741264]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLPredicateBuilder.swift"
+  : [1652736999, 629094600]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLPredicateGroupBuilder.swift"
+  : [1652736999, 629321098]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLQueryBuilder.swift"
+  : [1652736999, 629552841]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLQueryFetcher.swift"
+  : [1652736999, 630169630]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLRawBuilder.swift"
+  : [1652736999, 630387306]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLReturningBuilder.swift"
+  : [1652736999, 630776643]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSecondaryPredicateBuilder.swift"
+  : [1652736999, 631020069]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSecondaryPredicateGroupBuilder.swift"
+  : [1652736999, 631235361]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSelectBuilder.swift"
+  : [1652736999, 631493568]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLSubqeryClauseBuilder.swift"
+  : [1652736999, 631771087]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLUnionBuilder.swift"
+  : [1652736999, 631982803]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Builders/SQLUpdateBuilder.swift"
+  : [1652736999, 632299184]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Concurrency/SQLDatabase+Concurrency.swift"
+  : [1652736999, 632697582]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Concurrency/SQLQueryBuilder+Concurrency.swift"
+  : [1652736999, 632940769]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Concurrency/SQLQueryFetcher+Concurrency.swift"
+  : [1652736999, 633167266]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Exports.swift": [1652736999, 633383750]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlias.swift": [1652736999, 633784055]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlterColumnDefinitionType.swift"
+  : [1652736999, 634080410]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlterEnum.swift": [1652736999, 634319305]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLAlterTable.swift"
+  : [1652736999, 634564876]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLBinaryExpression.swift"
+  : [1652736999, 634803771]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLBinaryOperator.swift"
+  : [1652736999, 635030746]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLBind.swift": [1652736999, 635241508]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnAssignment.swift"
+  : [1652736999, 635456562]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnConstraintAlgorithm.swift"
+  : [1652736999, 635781764]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnDefinition.swift"
+  : [1652736999, 636075019]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLColumnIdentifier.swift"
+  : [1652736999, 636360168]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLConflictAction.swift"
+  : [1652736999, 636639595]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLConflictResolutionStrategy.swift"
+  : [1652736999, 636942386]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLConstraint.swift"
+  : [1652736999, 637296199]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateEnum.swift"
+  : [1652736999, 637507438]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateIndex.swift"
+  : [1652736999, 637701988]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateTable.swift"
+  : [1652736999, 637928962]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLCreateTrigger.swift"
+  : [1652736999, 638185977]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDataType.swift": [1652736999, 638816833]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDelete.swift": [1652736999, 639103174]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDirection.swift": [1652736999, 639354467]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDistinct.swift": [1652736999, 639566898]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropBehaviour.swift"
+  : [1652736999, 639782190]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropEnum.swift": [1652736999, 640131711]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropIndex.swift": [1652736999, 640891075]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropTable.swift": [1652736999, 641152620]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLDropTrigger.swift"
+  : [1652736999, 641365289]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLEnumDataType.swift"
+  : [1652736999, 641723871]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLExcludedColumn.swift"
+  : [1652736999, 642075538]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLForeignKey.swift"
+  : [1652736999, 642288208]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLForeignKeyAction.swift"
+  : [1652736999, 642508983]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLFunction.swift": [1652736999, 642732143]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLGroupExpression.swift"
+  : [1652736999, 642957925]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLIdentifier.swift"
+  : [1652736999, 643209218]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLInsert.swift": [1652736999, 643472433]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLJoin.swift": [1652736999, 643782615]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLJoinMethod.swift"
+  : [1652736999, 644003868]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLList.swift": [1652736999, 644241333]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLLiteral.swift": [1652736999, 644551038]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLLockingClause.swift"
+  : [1652736999, 644796609]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLOrderBy.swift": [1652736999, 645075798]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLQueryString.swift"
+  : [1652736999, 645323276]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLRaw.swift": [1652736999, 645544528]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLReturning.swift": [1652736999, 645767688]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLSelect.swift": [1652736999, 646064996]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLTableConstraintAlgorithm.swift"
+  : [1652736999, 646279335]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLUnion.swift": [1652736999, 646560668]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/Query/SQLUpdate.swift": [1652736999, 646778106]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/SQLDatabase.swift": [1652736999, 647085189]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/SQLDialect.swift": [1652736999, 647496700]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/SQLError.swift": [1652736999, 647753000]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/SQLExpression.swift": [1652736999, 648145198]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/SQLQueryEncoder.swift": [1652736999, 648573160]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/SQLRow.swift": [1652736999, 648982524]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/SQLRowDecoder.swift": [1652736999, 649350643]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/SQLSerializer.swift": [1652736999, 666237115]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sql-kit/Sources/SQLKit/SQLStatement.swift": [1652736999, 666620254]

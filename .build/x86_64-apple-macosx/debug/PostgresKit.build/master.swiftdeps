@@ -1,0 +1,26 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "6692dcf3416080f21d5381df9cf8908e2abf783d8cbe87e9161e04f46f3a3623"
+build_start_time: [1652737088, 391861915]
+build_end_time: [1652737090, 791884899]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/ConnectionPool+Postgres.swift"
+  : [1652737001, 696329116]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataDecoder+JSONDecoder.swift"
+  : [1652737001, 696752071]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/Exports.swift": [1652737001, 696972846]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresClient+SQL.swift"
+  : [1652737001, 697254180]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresColumnType.swift"
+  : [1652737001, 697506427]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConfiguration.swift"
+  : [1652737001, 697851896]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConnectionSource.swift"
+  : [1652737001, 698134899]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataDecoder.swift"
+  : [1652737001, 698415756]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataEncoder.swift"
+  : [1652737001, 698666572]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDialect.swift"
+  : [1652737001, 698910236]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresRow+SQL.swift"
+  : [1652737001, 699119091]

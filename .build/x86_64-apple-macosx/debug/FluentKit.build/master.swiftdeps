@@ -1,0 +1,174 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1652737077, 984252929]
+build_end_time: [1652737085, 940274000]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/AsyncMigration.swift"
+  : [1652736992, 885863780]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/AsyncModelMiddleware.swift"
+  : [1652736992, 886150360]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Children+Concurrency.swift"
+  : [1652736992, 886396408]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Database+Concurrency.swift"
+  : [1652736992, 886662006]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/EnumBuilder+Concurrency.swift"
+  : [1652736992, 887049198]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Model+Concurrency.swift"
+  : [1652736992, 887306690]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/ModelResponder+Concurrency.swift"
+  : [1652736992, 887585401]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/OptionalChild+Concurrency.swift"
+  : [1652736992, 887860298]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/OptionalParent+Concurrency.swift"
+  : [1652736992, 888063192]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Parent+Concurrency.swift"
+  : [1652736992, 888272047]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/QueryBuilder+Concurrency.swift"
+  : [1652736992, 888495206]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Relation+Concurrency.swift"
+  : [1652736992, 888712406]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/SchemaBuilder+Concurrency.swift"
+  : [1652736992, 888960361]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Concurrency/Siblings+Concurrency.swift"
+  : [1652736992, 889170646]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Database/Database+Logging.swift"
+  : [1652736992, 889525651]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Database/Database.swift"
+  : [1652736992, 889747142]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseID.swift"
+  : [1652736992, 890024662]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseInput.swift"
+  : [1652736992, 890264511]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseOutput+Cascade.swift"
+  : [1652736992, 890531539]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseOutput+Prefix.swift"
+  : [1652736992, 890726566]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Database/DatabaseOutput.swift"
+  : [1652736992, 890950679]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Database/Databases.swift"
+  : [1652736992, 891231060]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/DatabaseEnum.swift"
+  : [1652736992, 891618967]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/EnumBuilder.swift"
+  : [1652736992, 891947746]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/EnumMetadata.swift"
+  : [1652736992, 892250537]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/EnumProperty.swift"
+  : [1652736992, 892503261]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Enum/OptionalEnumProperty.swift"
+  : [1652736992, 892729759]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Exports.swift": [1652736992, 892912864]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/FluentError.swift": [1652736992, 893179655]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Middleware/ModelMiddleware.swift"
+  : [1652736992, 893594741]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Middleware/ModelResponder.swift"
+  : [1652736992, 893906116]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/Migration.swift"
+  : [1652736992, 894368171]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/MigrationLog.swift"
+  : [1652736992, 894647598]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/Migrations.swift"
+  : [1652736992, 894929409]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Migration/Migrator.swift"
+  : [1652736992, 895303726]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Model/AnyModel.swift"
+  : [1652736992, 895780801]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Model/EagerLoad.swift"
+  : [1652736992, 896061897]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Fields+Codable.swift"
+  : [1652736992, 896337509]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Fields.swift": [1652736992, 896601915]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Model/MirrorBypass.swift"
+  : [1652736992, 896952629]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Model+CRUD.swift"
+  : [1652736992, 897998571]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Model.swift": [1652736992, 898336172]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Model/ModelAlias.swift"
+  : [1652736992, 898641586]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Model/Schema.swift": [1652736992, 898821830]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/FieldOperators.swift"
+  : [1652736992, 899134159]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/Operators.swift"
+  : [1652736992, 916064262]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/ValueOperators+Array.swift"
+  : [1652736992, 916385650]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/ValueOperators+String.swift"
+  : [1652736992, 916837692]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Operators/ValueOperators.swift"
+  : [1652736992, 917130947]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Children.swift"
+  : [1652736992, 917484760]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Field.swift"
+  : [1652736992, 917763710]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/FieldKey.swift"
+  : [1652736992, 918030261]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Group.swift"
+  : [1652736992, 918225288]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/ID.swift"
+  : [1652736992, 918497562]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/OptionalChild.swift"
+  : [1652736992, 918714284]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/OptionalField.swift"
+  : [1652736992, 919016122]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/OptionalParent.swift"
+  : [1652736992, 919208288]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Parent.swift"
+  : [1652736992, 919413566]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Property.swift"
+  : [1652736992, 919605016]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Relation.swift"
+  : [1652736992, 919949293]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Siblings.swift"
+  : [1652736992, 921138763]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/Timestamp.swift"
+  : [1652736992, 921828269]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Properties/TimestampFormat.swift"
+  : [1652736992, 922141790]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Aggregate.swift"
+  : [1652736992, 923052787]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+EagerLoad.swift"
+  : [1652736992, 923332214]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Filter.swift"
+  : [1652736992, 923539638]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Group.swift"
+  : [1652736992, 923789501]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Join.swift"
+  : [1652736992, 924059867]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Paginate.swift"
+  : [1652736992, 924302577]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Range.swift"
+  : [1652736992, 924563169]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Set.swift"
+  : [1652736992, 924780845]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder+Sort.swift"
+  : [1652736992, 924983501]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Builder/QueryBuilder.swift"
+  : [1652736992, 925218105]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Action.swift"
+  : [1652736992, 925630092]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Aggregate.swift"
+  : [1652736992, 925824165]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Field.swift"
+  : [1652736992, 926017522]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Filter.swift"
+  : [1652736992, 926220893]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Join.swift"
+  : [1652736992, 926416873]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Range.swift"
+  : [1652736992, 926600694]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Sort.swift"
+  : [1652736992, 926786899]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery+Value.swift"
+  : [1652736992, 926968336]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/Database/DatabaseQuery.swift"
+  : [1652736992, 927155256]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Query/QueryHistory.swift"
+  : [1652736992, 927342414]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Schema/DatabaseSchema.swift"
+  : [1652736992, 927703857]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Schema/SchemaBuilder.swift"
+  : [1652736992, 927953720]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Utilities/OptionalType.swift"
+  : [1652736992, 928298473]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentKit/Utilities/RandomGeneratable.swift"
+  : [1652736992, 928481101]

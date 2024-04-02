@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/master.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/Exports.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/Exports.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/Exports.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/Exports.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteConnection.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteConnection.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteConnection.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteConnection~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteConnection.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteData.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteData.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteData.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteData~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteData.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteDataConvertible.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteDataConvertible.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteDataConvertible.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteDataConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteDataConvertible.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteDataType.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteDataType.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteDataType.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteDataType~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteDataType.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteError.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteError.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteError.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteError~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteError.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteRow.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteRow.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteRow.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteRow~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteRow.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteStatement.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteStatement.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteStatement.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteStatement~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/SQLiteNIO.build/SQLiteStatement.swiftdeps"
+  }
+}

@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "15fcf74aa6cc03d2bafa768baca10d71f32fc6a9a9b2d4ad62e52141a09b8ff8"
+build_start_time: [1652737086, 270494937]
+build_end_time: [1652737087, 939838886]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseQuery+SQL.swift"
+  : [1652736992, 928795337]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseSchema+SQL.swift"
+  : [1652736992, 928975820]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentSQL/Exports.swift": [1652736992, 929162025]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model+Concurrency.swift"
+  : [1652736992, 929367065]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model.swift"
+  : [1652736992, 929558753]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLJSONColumnPath.swift"
+  : [1652736992, 929852485]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQueryConverter.swift"
+  : [1652736992, 930278778]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLSchemaConverter.swift"
+  : [1652736992, 930669784]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/fluent-kit/Sources/FluentSQL/Utilities.swift": [1652736992, 930995941]

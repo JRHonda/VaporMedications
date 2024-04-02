@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/master.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/GraphQLError+Debuggabe.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphQLError+Debuggabe.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphQLError+Debuggabe.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphQLError+Debuggabe~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphQLError+Debuggabe.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/GraphQLRequest.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphQLRequest.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphQLRequest.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphQLRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphQLRequest.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/Graphiti+Enum.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Enum.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Enum.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Enum~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Enum.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/Graphiti+Fluent.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Fluent.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Fluent.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Fluent~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Fluent.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/Graphiti+Request.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Request.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Request.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Request~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Request.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/Graphiti+Router.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Router.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Router.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/Graphiti+Router.swiftdeps"
+  },
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/graphql-kit/Sources/GraphQLKit/GraphitiExport.swift": {
+    "dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphitiExport.d",
+    "object": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphitiExport.swift.o",
+    "swiftmodule": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphitiExport~partial.swiftmodule",
+    "swift-dependencies": "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/GraphQLKit.build/GraphitiExport.swiftdeps"
+  }
+}

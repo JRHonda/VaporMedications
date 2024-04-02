@@ -1,0 +1,4 @@
+module FluentSQLiteDriver {
+    header "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/FluentSQLiteDriver.build/FluentSQLiteDriver-Swift.h"
+    requires objc
+}

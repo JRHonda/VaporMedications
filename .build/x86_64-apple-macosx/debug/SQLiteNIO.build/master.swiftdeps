@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "3d6c571ee8c34ddc10027f9866749aadda89e34050e6736018132b99b9150ba9"
+build_start_time: [1652737061, 178640842]
+build_end_time: [1652737065, 991196155]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/Exports.swift": [1652736997, 525921821]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteConnection.swift"
+  : [1652736997, 526176691]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteData.swift": [1652736997, 526466369]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteDataConvertible.swift"
+  : [1652736997, 526687622]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteDataType.swift"
+  : [1652736997, 526920795]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteError.swift": [1652736997, 527154684]
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteRow.swift": [1652736997, 527439117]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-nio/Sources/SQLiteNIO/SQLiteStatement.swift"
+  : [1652736997, 527752637]

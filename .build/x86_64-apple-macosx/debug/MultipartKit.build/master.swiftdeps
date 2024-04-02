@@ -1,0 +1,85 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "e2ab69f1adaff3579ba2b6a4878f7599552cbb0622cec7cdc2fca8cd7baaad78"
+build_start_time: [1652737066, 75425148]
+build_end_time: [1652737075, 582926034]
+inputs:
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/BasicCodingKey.swift"
+  : [1652736998, 721461772]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/Deprecated/MultipartError.swift"
+  : [1652736998, 721894979]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/Exports.swift"
+  : [1652736998, 722189903]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.Decoder.swift"
+  : [1652736998, 722591638]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.KeyedContainer.swift"
+  : [1652736998, 722818851]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.SingleValueContainer.swift"
+  : [1652736998, 723038196]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.UnkeyedContainer.swift"
+  : [1652736998, 723300457]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.swift"
+  : [1652736998, 723941802]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.Encoder.swift"
+  : [1652736998, 724294185]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.KeyedContainer.swift"
+  : [1652736998, 724538803]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.SingleValueContainer.swift"
+  : [1652736998, 724785566]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.UnkeyedContainer.swift"
+  : [1652736998, 725051879]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.swift"
+  : [1652736998, 725672721]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/Storage.swift"
+  : [1652736998, 725969314]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartFormData.swift"
+  : [1652736998, 726202249]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartParser.swift"
+  : [1652736998, 726662158]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPart.swift"
+  : [1652736998, 726980686]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPartConvertible.swift"
+  : [1652736998, 727194786]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartSerializer.swift"
+  : [1652736998, 727465629]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+Bucket.swift"
+  : [1652736998, 728113889]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+BucketIterator.swift"
+  : [1652736998, 728374719]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+Constants.swift"
+  : [1652736998, 728704929]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift"
+  : [1652736998, 729005575]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_HashTable.swift"
+  : [1652736998, 729317903]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/HashTable/_Hashtable+Header.swift"
+  : [1652736998, 729539394]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift"
+  : [1652736998, 730044841]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift"
+  : [1652736998, 730343341]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift"
+  : [1652736998, 730601787]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift"
+  : [1652736998, 730898380]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift"
+  : [1652736998, 731098175]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedDictionary/OrderedDictionary.swift"
+  : [1652736998, 731600284]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift"
+  : [1652736998, 732073783]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift"
+  : [1652736998, 732419967]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift"
+  : [1652736998, 732702255]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift"
+  : [1652736998, 732944250]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift"
+  : [1652736998, 733139514]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift"
+  : [1652736998, 733438014]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/OrderedSet/OrderedSet.swift"
+  : [1652736998, 733788728]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/OrderedCollections/Utilities/RandomAccessCollection+Offsets.swift"
+  : [1652736998, 734222888]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/multipart-kit/Sources/MultipartKit/Utilities.swift"
+  : [1652736998, 734431743]

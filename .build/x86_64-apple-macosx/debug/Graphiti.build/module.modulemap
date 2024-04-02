@@ -1,0 +1,4 @@
+module Graphiti {
+    header "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/x86_64-apple-macosx/debug/Graphiti.build/Graphiti-Swift.h"
+    requires objc
+}

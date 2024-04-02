@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "3d6c571ee8c34ddc10027f9866749aadda89e34050e6736018132b99b9150ba9"
+build_start_time: [1652737077, 945878028]
+build_end_time: [1652737080, 571933031]
+inputs:
+  "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-kit/Sources/SQLiteKit/Exports.swift": [1652737007, 331964015]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteConfiguration.swift"
+  : [1652737007, 332177639]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteConnection+SQLKit.swift"
+  : [1652737007, 332490205]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteConnectionSource.swift"
+  : [1652737007, 332732915]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteDataDecoder.swift"
+  : [1652737007, 332960128]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteDataEncoder.swift"
+  : [1652737007, 333224773]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteDialect.swift"
+  : [1652737007, 333455085]
+  ? "/Users/vn53uts/Local/Projects/iOS/MedicationsGraphQLVaporServer/.build/checkouts/sqlite-kit/Sources/SQLiteKit/SQLiteRow+SQLRow.swift"
+  : [1652737007, 333667755]
